@@ -48,6 +48,8 @@ Follow instructions in linked repository to establish environment on [PicoSky Ev
     - Block transfers: set and get block of memory on evaluation board
     - Time sync: trigger time synchronization on the evaluation board 
 
+![CAN-TS application screenshot](doc/cants-demo.png?raw=true "CAN-TS application screenshot")
+
 ## Documentation
 
 Project documentation can be build with doxygen with configuration file provided in doc folder.
